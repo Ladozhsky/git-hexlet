@@ -1,1 +1,2 @@
 Haskel Curry
+vlad alex
