@@ -1,2 +1,0 @@
-Haskel Curry
-vlad alex
